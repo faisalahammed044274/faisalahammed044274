@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Faisal!
 
-<!--
-**faisalahammed044274/faisalahammed044274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Web Developer** specializing in:
+- WordPress Development
+- Elementor
+- HTML, CSS, JavaScript, and PHP
+- WooCommerce & eCommerce solutions
 
-Here are some ideas to get you started:
+## 🌟 Skills
+- 🔧 WordPress, WooCommerce
+- 🎨 UI/UX Design
+- ⚙️ API Integrations
+- 🚀 Speed Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+Check out some of my work:
+- [Projects : ](https://github.com/faisalahammed044274?tab=repositories)
+
+## 🌐 Connect with Me
+- [Website](https://github.com/faisalahammed044274)
+- [LinkedIn](https://linkedin.com/in/faisal-ahammed-setu)
+- [Twitter](https://twitter.com/faisal044274)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
