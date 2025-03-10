@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Ahammed Setu</h1>
-<h3 align="center">A passionate PHP, JS developer from Bangladesh</h3>
+<h3 align="center">A passionate PHP, JavaScript Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalahammed044274&label=Profile%20views&color=0e75b6&style=flat" alt="faisalahammed044274" /> </p>
 
