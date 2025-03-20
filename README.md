@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/faisal044274" target="blank"><img src="https://img.shields.io/twitter/follow/faisal044274?logo=twitter&style=for-the-badge" alt="faisal044274" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and GO**
+- 🌱 I’m currently learning **GO**
 
 - 🤝 I’m looking for help with **PHP, WordPress and Laravel Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/faisalahammed044274](https://github.com/faisalahammed044274)
 
-- 💬 Ask me about **PHP, WordPress**
+- 💬 Ask me about **PHP, WordPress and Laravel**
 
 - 📫 How to reach me **faisalahammed044274@gmail.com**
 
