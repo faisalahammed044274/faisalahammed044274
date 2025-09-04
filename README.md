@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/faisal044274" target="blank"><img src="https://img.shields.io/twitter/follow/faisal044274?logo=twitter&style=for-the-badge" alt="faisal044274" /></a> </p>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **GO and System Administration**
 
 - 🤝 I’m looking for help with **PHP, WordPress and Laravel Projects**
 
