@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Ahammed Setu</h1>
 <h3 align="center">A passionate PHP Developer.</h3>
 
-- 🌱 I’m currently learning **In Depth DevOps & System Administration**
+- 🌱 I’m currently learning **DevOps & System Administration**
 
 - 🤝 I’m looking for help with **PHP, WordPress and Laravel Projects**
   
