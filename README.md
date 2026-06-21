@@ -2,12 +2,10 @@
 <h3 align="center"> WordPress / PHP Developer.</h3>
 
 - 🌱 I’m currently learning **Python, Golang & DevOps**
-
-- 🤝 I’m looking for help with **PHP, WordPress and Laravel Projects**
   
 - 💬 Ask me about **PHP, WordPress and Laravel**
 
-- 📫 How to reach me **faisalahammed044274@gmail.com**
+- 📫 How to reach me **faisal.sec07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
