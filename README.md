@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faisal Ahammed Setu</h1>
 <h3 align="center"> WordPress / PHP Developer.</h3>
 
-- 🌱 I’m currently learning ** Python Automation & DevOps **
+- 🌱 I’m currently learning **Python Automation & DevOps**
   
-- 💬 Ask me about ** PHP, WordPress and Laravel **
+- 💬 Ask me about **PHP, WordPress and Laravel**
 
-- 📫 How to reach me ** faisal.sec07@gmail.com **
+- 📫 How to reach me **faisal.sec07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
