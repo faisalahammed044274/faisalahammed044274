@@ -15,10 +15,9 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **WordPress, Laravel & Hosting Solutions**
-- 🌱 Learning **DevOps, Docker, Nginx, CloudLinux & Python Automation**
+- 🌱 Learning **DevOps, Docker, Nginx, RedHat & Python Automation**
 - 💬 Ask me about **PHP, WordPress, Laravel, Linux, cPanel & WHM**
 - ⚡ Passionate about **Debugging, Performance Optimization & Server Administration**
-- 📫 Reach me: **faisal.sec07@gmail.com**
 
 ---
 
@@ -73,26 +72,6 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=faisalahammed044274&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=faisalahammed044274&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?usernamefaisalahammed044274&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
