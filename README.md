@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=WordPress+Developer;Laravel+Developer;Technical+Support+Engineer;Linux+%26+Cloud+Hosting;DevOps+Learner;Always+Learning+New+Things+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=faisalahammed044274u&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=faisalahammed044274&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
