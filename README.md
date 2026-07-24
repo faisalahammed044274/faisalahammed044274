@@ -50,7 +50,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,notepad++,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,phpstorm" />
 </p>
 
 ---
