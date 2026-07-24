@@ -26,7 +26,7 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxtjs, tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxtjs,tailwind,bootstrap" />
 </p>
 
 ### Backend
@@ -51,18 +51,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,notepad++,postman,figma" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faisalahammed044274&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahammed044274&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
